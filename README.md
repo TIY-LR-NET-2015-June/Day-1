@@ -5,11 +5,11 @@ How To Submit?
 --------------
 
 1. Go to https://gist.github.com/ and copy the text below into the file. 
-2. Name the file "day-1.rb"
+2. Name the file "day-1.cs"
 3. Add the code below each direction
 4. Press 'Create a public gist'
 5. Copy that URL to the Gist, and submit the link as an [issue](https://github.com/TIY-LR-NET-2015-June/Day-1/issues)
-    * The issue name should be "$YourName - Day 1"
+    * The issue name should be "YourName - Day 1"
     * The issue description text should be a link
  
 ```c#
